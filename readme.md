@@ -1,4 +1,4 @@
-# Deploying Your App
+# Authentication, and Deploying Your App
 
 ### Objectives
 
