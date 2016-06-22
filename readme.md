@@ -193,9 +193,13 @@ and you're done! Go to the web address it provides you, and you should see My Li
 
 ---
 
-## Independent Practice (20 min)
+## Independent Practice (? min)
 
-Create a new app, that does anything you want, and deploy it to Firebase. If you want, it can use a Firebase database as well, but it doesn't have to. It can be as simple as a page with an h1 tag that says "Hello World".
+Create a new app, that does anything you want, and deploy it to Firebase hosting. It can be as simple as an html page with an h1 tag that says "Hello World".
+
+Bonus: Have it also use a Firebase database (without using Google auth), and store and retrieve information from that database.
+
+Double bonus: Use Google Auth, and display the user's name (or other information).
 
 
 <a name = "conclusion"></a>
