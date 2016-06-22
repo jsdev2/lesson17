@@ -7,7 +7,7 @@ _After this lesson, students will be able to:_
 - Set up Google auth for a Firebase database
 - Explain what hosting and deployment are, and why we need them.
 - Explain the difference between a static site and a full-stack web application
-- Name a couple of hosting providers for static sites
+- Name a couple of free hosting providers for static sites
 - Deploy an app to Firebase
 
 ### Preparation
