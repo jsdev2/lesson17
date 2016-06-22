@@ -122,7 +122,7 @@ If we want users to be able to see our app, though, it has to be served from som
 
 "Deployment" is the process of packaging up all your files and sending them to the hosting provider, as well as setting up with your hosting provider anything else that will be necessary to test and run your app. This can include things like going into the hosting provider's console and setting up authentication rules and other configuration variables, and in cases where your app has its own application server code that you want to run (which ours do not), you have to provide adequate instructions to your hosting provider for how to get that code up and running.
 
-Today we'll talk about two good, free hosting providers we can use to deploy our app -- Firebase and Github Pages -- and we'll briefly mention another one you may have heard about, Heroku, which is probably the third easiest way out there to deploy an app.
+Today we'll talk about two good, free hosting providers we can use to deploy our app -- Firebase and Github Pages (although we probably won't get to deploying on Github till next Monday) -- and we'll briefly mention another one you may have heard about, Heroku, which is probably the third easiest way out there to deploy an app.
 
 There are basically two kinds of site hosting out there:
 
