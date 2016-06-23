@@ -64,7 +64,7 @@ var firebaseAuth = firebase.auth();
 var provider = new firebase.auth.GoogleAuthProvider();
 
 var token;
-var user;
+var currentUser;
 
 // Log in
 firebaseAuth.signInWithPopup(provider).then(function(result) {
@@ -89,7 +89,7 @@ firebaseAuth.signInWithPopup(provider).then(function(result) {
 // Logout, if you want to do that inside a click listener
 // when the user clicks a "logout" button:
 
-//auth.signOut().then(function () {
+//firebaseAuth.signOut().then(function () {
 //    console.log('logged out');
 //}).catch(function (error) {
 //    console.log(error);
